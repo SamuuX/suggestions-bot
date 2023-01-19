@@ -47,7 +47,7 @@
     "cron": "^1.8.2",
     "discord.js-light": "^3.5.11",
     "dotenv": "^14.0.0",
-    "erlpack": "discord/erlpack",
+    "erlpack": "0.1.4",
     "hastebin-gen": "^2.0.5",
     "kurasuta": "^2.2.3",
     "mongoose": "6.1.6",

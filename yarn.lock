@@ -354,12 +354,13 @@ dotenv@^14.0.0:
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-14.0.1.tgz#130e75a16df47de88becdf6d47527df76f864d33"
   integrity sha512-CuBFi54IgZtRqSls21+DLbQ1YZGEx80DerXbnj+wCGZ+UvxQdfXvWJliB3n3yaeaNAQQs2l/53iZwclTHtL3uA==
 
-erlpack@discord/erlpack:
-  version "0.1.3"
-  resolved "https://codeload.github.com/discord/erlpack/tar.gz/f7d730debe32c416d1b55b4217f8aef2ade05874"
+erlpack@0.1.4:
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/erlpack/-/erlpack-0.1.4.tgz#018758a53206b8e9ba1f6c58a6766e3ba261a113"
+  integrity sha512-CJYbkEvsB5FqCCu2tLxF1eYKi28PvemC12oqzJ9oO6mDFrFO9G9G7nNJUHhiAyyL9zfXTOJx/tOcrQk+ncD65w==
   dependencies:
     bindings "^1.5.0"
-    nan "^2.14.0"
+    nan "^2.15.0"
 
 escape-string-regexp@^4.0.0:
   version "4.0.0"
@@ -787,6 +788,11 @@ nan@^2.14.0:
   version "2.15.0"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.15.0.tgz#3f34a473ff18e15c1b5626b62903b5ad6e665fee"
   integrity sha512-8ZtvEnA2c5aYCZYd1cvgdnU6cqwixRoYg70xPLWUws5ORTa/lnw+u4amixRS/Ac5U5mQVgp9pnlSUnbNWFaWZQ==
+
+nan@^2.15.0:
+  version "2.17.0"
+  resolved "https://registry.yarnpkg.com/nan/-/nan-2.17.0.tgz#c0150a2368a182f033e9aa5195ec76ea41a199cb"
+  integrity sha512-2ZTgtl0nJsO0KQCjEpxcIr5D+Yv90plTitZt9JBfQvVJDS5seMl3FOvsh3+9CoYWXf/1l5OaZzzF6nDm4cagaQ==
 
 natural-compare@^1.4.0:
   version "1.4.0"
